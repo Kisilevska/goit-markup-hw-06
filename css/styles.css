@@ -201,7 +201,7 @@ img {
     background-color: var(--primary-white-color );
     border-radius: 4px;
 
-    transition: transform var(--duration) var(--timing-function), opacity var(--duration) var(--timing-function);
+    transition: transform var(--duration) var(--timing-function)/*, opacity var(--duration) var(--timing-function)*/;
 }
 
 .modal-btn {
